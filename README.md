@@ -1,2 +1,2 @@
 # RideTheRhythm
-Rhythm based platformer
+Rhythm based platformer, inspired by games such as bit.trip runner
